@@ -56,6 +56,26 @@ I also have a Front-End background, giving me a full understanding of the develo
 🎨 Front-End: HTML, CSS, JavaScript
 </p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![jquery](https://img.shields.io/badge/jquery-%23323330.svg?style=flat&logo=jquery&logoColor=white)
+<h2 align="center">💻 Tech Stack</h2>
+
+<h3 align="center">🚀 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css" />
+</p>
+
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,nginx" />
+</p>
+
+<h3 align="center">🛠️ Tools & Version Control</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<h3 align="center">🎨 Frontend Basics</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite" />
+</p>
 
 
