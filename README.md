@@ -5,9 +5,11 @@
   Cloud & DevOps Engineer ☁️ | Experience in servers, domains, and system administration ⚙️  
   Front-End background 🎨 | Passionate about automation and scalable systems 🚀
 </p>
+
+
 ## 🌐Socials
 
-[![Twitter]() [![LinkedIn]() [![Instagram]() [![Facebook]()
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]()
 
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
