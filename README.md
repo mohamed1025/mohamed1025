@@ -15,15 +15,15 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I <del>regularly</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+  <li>🚀 Cloud & DevOps Engineer focused on building scalable, production-ready systems.</li>
+  <li>☁️ Hands-on experience with AWS, cloud infrastructure, and cloud-native technologies.</li>
+  <li>🐳 Skilled in Docker, Kubernetes, and CI/CD pipelines.</li>
+  <li>⚙️ Strong background in Linux, servers, domain management, and system administration.</li>
+  <li>🛠️ Experience with automation, scripting, and Infrastructure as Code.</li>
+  <li>🎯 Focused on reliability, performance, and cost optimization.</li>
+  <li>🌍 Open to remote opportunities (worldwide).</li>
+  <li>💬 Let’s connect and build efficient, scalable systems.</li>
 </ul>
-
 
 
 
