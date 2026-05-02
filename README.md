@@ -46,9 +46,8 @@ I also have a Front-End background, giving me a full understanding of the develo
   <li>⚙️ Linux Server Setup & Automation</li> 
 </ul>
 
-
-# 💻Tech Stack
-<hr>
+<p> Tech Stack
+</p>
 <p>
 ☁️ Cloud: AWS <br>
 🐳 DevOps: Docker, Kubernetes, CI/CD <br>
