@@ -48,9 +48,7 @@ I also have a Front-End background, giving me a full understanding of the develo
 
 
 # 💻Tech Stack
-
-
-
+<hr>
 <p>
 ☁️ Cloud: AWS <br>
 🐳 DevOps: Docker, Kubernetes, CI/CD <br>
