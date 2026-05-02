@@ -5,7 +5,11 @@
   Cloud & DevOps Engineer ☁️ | Experience in servers, domains, and system administration ⚙️  
   Front-End background 🎨 | Passionate about automation and scalable systems 🚀
 </p>
-<p>🍌 Don't forget to get some Potassium 🍌</p>
+## 🌐Socials
+
+[![Twitter]() [![LinkedIn]() [![Instagram]() [![Facebook]()
+
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
