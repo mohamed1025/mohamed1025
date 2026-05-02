@@ -1,4 +1,4 @@
-
+<img width="433" height="411" alt="image" src="https://github.com/user-attachments/assets/8c06963a-fb09-4212-a6b1-69cb7f6e076f" />
 
 <h2>Hey 👋, I'm mohamed ashraf </h2>
 <p>
@@ -21,7 +21,7 @@ I also have a Front-End background, giving me a full understanding of the develo
 
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<img align="right" src=" https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <ul>
   <li>🚀 Cloud & DevOps Engineer focused on building scalable, production-ready systems.</li>
   <li>☁️ Hands-on experience with AWS, cloud infrastructure, and cloud-native technologies.</li>
