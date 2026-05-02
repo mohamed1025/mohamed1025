@@ -53,11 +53,8 @@ I also have a Front-End background, giving me a full understanding of the develo
 ⚙️ Systems: Linux, Servers, Domains <br>
 🛠️ Tools: Git, Bash, Automation <br>
 🎨 Front-End: HTML, CSS, JavaScript
-</p>
-
-
-<h3>☁️ DevOps & Cloud</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,jenkins,terraform" />
+<h3 align="center">☁️ DevOps & Cloud</h3>
+<table align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,jenkins,terraform,html,css,js,react,python&perline=13" />
 </p>
