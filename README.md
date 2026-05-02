@@ -56,8 +56,14 @@ I also have a Front-End background, giving me a full understanding of the develo
 🎨 Front-End: HTML, CSS, JavaScript
 </p>
 
-<h3 align="center">💻 Languages & Tools</h3>
+<h3>💻 Tech Stack</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,c,cpp,aws,docker,kubernetes,linux,git" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,c,cpp" />
+</p>
+
+<h3>☁️ DevOps & Cloud</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,jenkins,terraform" />
 </p>
