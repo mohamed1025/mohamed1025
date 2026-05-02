@@ -5,9 +5,10 @@
 ### Experienced with building Single Page Applications using modern Technologies as React,etc.
 
 ### Loves to Keep up with new Technologies and Topics in the tech Industry.
-<a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
 
 ## 🌐Socials
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 
 # 💻Tech Stack
 
