@@ -21,14 +21,8 @@ I also have a Front-End background, giving me a full understanding of the develo
 
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<h3>📌 Featured Projects</h3> <ul> <li>🚀 CI/CD Pipeline using GitHub Actions</li> <li>☁️ AWS Infrastructure Deployment</li> <li>🐳 Dockerized Applications</li> <li>⚙️ Linux Server Setup & Automation</li> </ul>
 
-
-
-
-
-<ul>
+<ul style="font-size: 15px;">
   <li>🚀 Cloud & DevOps Engineer focused on building scalable, production-ready systems.</li>
   <li>☁️ Hands-on experience with AWS, cloud infrastructure, and cloud-native technologies.</li>
   <li>🐳 Skilled in Docker, Kubernetes, and CI/CD pipelines.</li>
@@ -38,6 +32,11 @@ I also have a Front-End background, giving me a full understanding of the develo
   <li>🌍 Open to remote opportunities (worldwide).</li>
   <li>💬 Let’s connect and build efficient, scalable systems.</li>
 </ul>
+
+
+
+<h3>📌 Featured Projects</h3> <ul> <li>🚀 CI/CD Pipeline using GitHub Actions</li> <li>☁️ AWS Infrastructure Deployment</li> <li>🐳 Dockerized Applications</li> <li>⚙️ Linux Server Setup & Automation</li> </ul>
+
 
 # 💻Tech Stack
 
