@@ -1,5 +1,5 @@
 
-<h2>Hey 👋, I'm mohamed ashraf </h2>
+<h2>HI 👋, I'm mohamed ashraf </h2>
 Cloud & DevOps Engineer with hands-on experience in AWS, Docker, Kubernetes, and CI/CD pipelines.  
 Strong background in Linux, servers, domain management, and system administration.  
 
