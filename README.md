@@ -56,11 +56,6 @@ I also have a Front-End background, giving me a full understanding of the develo
 🎨 Front-End: HTML, CSS, JavaScript
 </p>
 
-<h3>💻 Tech Stack</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,c,cpp" />
-</p>
 
 <h3>☁️ DevOps & Cloud</h3>
 
