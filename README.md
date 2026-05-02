@@ -42,13 +42,6 @@ I also have a Front-End background, giving me a full understanding of the develo
 </ul>
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed1025&show_icons=true&theme=radical" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed1025&theme=radical" />
-</p>
 
 
 # 💻Tech Stack
