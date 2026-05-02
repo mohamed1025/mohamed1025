@@ -21,7 +21,7 @@ I also have a Front-End background, giving me a full understanding of the develo
 
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
+<img align="right" src=" https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
 <ul>
   <li>🚀 Cloud & DevOps Engineer focused on building scalable, production-ready systems.</li>
   <li>☁️ Hands-on experience with AWS, cloud infrastructure, and cloud-native technologies.</li>
