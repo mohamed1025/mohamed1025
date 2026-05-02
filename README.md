@@ -36,6 +36,7 @@ I also have a Front-End background, giving me a full understanding of the develo
      alt="GIF" 
      src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" 
      width="360px"
+      z-index="1"
      style="margin-top: 40px;" />
 <h3>📌 Featured Projects</h3>
 <ul>
