@@ -12,11 +12,11 @@ I also have a Front-End background, giving me a full understanding of the develo
 <h3 align="center">📫 Contact Me</h3>
 
 <p align="center">
-  <a href="mailto:your-mohamed.ashraf.cdevops.com">
+  <a href="mohamed.ashraf.cdevops.com">
     <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="tel:+2001014613672">
+  <a href="tel:+201014613672">
     <img src="https://img.shields.io/badge/Call Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
