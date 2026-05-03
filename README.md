@@ -12,13 +12,10 @@ I also have a Front-End background, giving me a full understanding of the develo
 <h3 align="center">📫 Contact Me</h3>
 
 <p align="center">
-  <a href="mohamed.ashraf.cdevops.com">
-    <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:mohamed.ashraf.cdevops@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-  <a href="tel:+201014613672">
-    <img src="https://img.shields.io/badge/Call Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 
   <a href="https://www.linkedin.com/in/mohamed-ashraf-aa2613407/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
